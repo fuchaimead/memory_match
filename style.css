@@ -1,0 +1,14 @@
+.card {
+  height: 150;
+  width: 150;  
+  margin: 1%;
+  border: solid black 5px;
+  background-color: green;
+  border-radius: 20px;
+}
+
+.row { 
+  display: flex;
+  justify-content: center;
+
+}
